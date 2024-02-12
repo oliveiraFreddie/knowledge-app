@@ -75,7 +75,7 @@ export default {
     }
 
     .tree-arrow.has-child {
-        filter: brightness(3);
+        filter: brightness(2);
     }
 
     .menu .menu-filter {
