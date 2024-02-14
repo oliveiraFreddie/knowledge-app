@@ -48,6 +48,7 @@ export default {
         font-weight: 100;
         height: 100%;
         padding: 0px 20px;
+        cursor: pointer;
     }
 
     .user-dropdown:hover {
